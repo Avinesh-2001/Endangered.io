@@ -1,0 +1,1 @@
+I developed Endangered.io, a website showcasing the top 20 endangered species across mammals, sea creatures, and birds. Using HTML, CSS, and JavaScript, I created an engaging platform that provides detailed information about each species' status, habitat, and threats, aiming to raise awareness and inspire conservation efforts.
