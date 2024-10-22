@@ -22,5 +22,5 @@
 ```bash
 # Clone this repository
 git clone https://github.com/Avinesh-2001/endangered.io.git
-
-# Open index.html in your browser to view the project
+[
+# Open index.html in your browser to view the project](https://avinesh-2001.github.io/Endangered.io/)
