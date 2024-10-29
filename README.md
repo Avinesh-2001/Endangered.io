@@ -4,8 +4,8 @@
 
 **Endangered.io** is a web platform designed to raise awareness about the world's most endangered species, including mammals, sea creatures, and birds. 🌿 Learn about their conservation status, habitats, and the threats they face, all in one interactive site.
 
-### 🔗 [Live Demo](#) [<!-- Add link if you host it -->](https://avinesh-2001.github.io/Endangered.io/)
-
+### 🔗 [Live Demo]
+https://avinesh-2001.github.io/Endangered.io/
 ---
 
 ## 🛠️ Tech Stack
